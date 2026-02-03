@@ -7,7 +7,7 @@ This repository contains the source code for my personal portfolio website, host
 The website highlights my background, projects, skills, and experience across software engineering, data systems, and applied AI. It is designed to be fast, responsive, and visually interactive for recruiters, collaborators, and research teams.
 
 🌐 **Live Website:**  
-https://manobhiram.github.io/
+[https://manobhiram.github.io/](https://manobhiram.vercel.app)
 
 ---
 

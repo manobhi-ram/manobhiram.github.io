@@ -4,7 +4,7 @@ import { meta, site } from "@/content/content";
 import RootProviders from "@/components/RootProviders";
 import CommandPaletteRoot from "@/components/CommandPaletteRoot";
 import Footer from "@/components/Footer";
-import AnalyticsPlaceholder from "@/components/AnalyticsPlaceholder";
+import { Analytics } from "@vercel/analytics/next";
 import TransitionProvider from "@/components/TransitionProvider";
 
 export const metadata: Metadata = {
@@ -50,7 +50,7 @@ export default function RootLayout({
             </TransitionProvider>
           </CommandPaletteRoot>
         </RootProviders>
-        <AnalyticsPlaceholder />
+        <Analytics />
       </body>
     </html>
   );

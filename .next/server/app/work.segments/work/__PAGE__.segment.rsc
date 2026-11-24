@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[27116,["/_next/static/chunks/f968e16f8956041c.js","/_next/static/chunks/cc61be3e998b2b3a.js","/_next/static/chunks/ffaf12372864c4bd.js","/_next/static/chunks/fec18f35a2330490.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"uucNHhoRZP72-EjETxs4j","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto w-full max-w-6xl px-6 pb-24 pt-20","children":[["$","div",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.5em] text-white/50","children":"Work"}],["$","h1",null,{"className":"text-4xl font-semibold text-white md:text-5xl","children":"Selected case studies and systems wins."}],["$","p",null,{"className":"max-w-2xl text-white/70","children":"Every project focuses on problem framing, execution, and measurable results. Explore the case studies for technical details and outcomes."}]]}],["$","div",null,{"className":"mt-10","children":["$","$L2",null,{}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/fec18f35a2330490.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
